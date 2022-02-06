@@ -18,3 +18,5 @@ FEATURES:
 4)All necessary requirements for the Restaurants Billing System has presented in this project.
 
 SWOT Analysis:
+
+![ss](https://user-images.githubusercontent.com/98951784/152695575-cbacc585-bd09-4982-85a0-5baf93baf67e.png)
