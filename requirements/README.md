@@ -20,3 +20,20 @@ FEATURES:
 SWOT Analysis:
 
 ![ss](https://user-images.githubusercontent.com/98951784/152695575-cbacc585-bd09-4982-85a0-5baf93baf67e.png)
+
+4W's and 1H
+
+WHO:
+Any one who runs restaurants can use this application.
+
+
+WHAT:
+This application manages Food items and customer data.
+
+
+WHY:
+For easy and accurate billing.
+
+
+HOW:
+Implemented using structures, files, pointers and other functionalities of C.
