@@ -1,5 +1,5 @@
 /**
- * @file project_code.h
+ * @file code.h
  * @author your name (Indrani V)
  * @brief 
  * @version 0.1
@@ -8,8 +8,8 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#ifndef __PROJECT_CODE_H__
-#define __PROJECT_CODE_H__
+#ifndef __CODE_H__
+#define __CODE_H__
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,7 +20,7 @@
  * @param [in] date
  * 
  */
-void generateBillHeader(char name[50], char date[30])
+void Billheader(char name[50], char date[30]);
 
 /**
  * @brief generates the body of the bill
@@ -28,12 +28,12 @@ void generateBillHeader(char name[50], char date[30])
  * @param [in] qty
  * @param [in] price
  */
-void generateBillBody(char item[30],int qty,float price)
+void Billbody(char item[30],int quantity,float price);
 
 /**
  * @brief generated the bill footer
  * @param [in] total
  * 
  */
-void generateBillFooter(float total)
-#endif  /* #define __PROJECT_CODE_H__ */
+void Billfooter(float total);
+#endif  /* #define __CODE_H__ */
