@@ -4,7 +4,7 @@
 
 Codacy      | Codiga | 
 ---------------| ----------------------------
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d3a3e4b1dbf47cbb1cc2f91d022c984)](https://www.codacy.com/gh/indrani19/M1_RestaurantBillingSystem_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=indrani19/M1_RestaurantBillingSystem_Utility&amp;utm_campaign=Badge_Grade)|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d3a3e4b1dbf47cbb1cc2f91d022c984)](https://www.codacy.com/gh/indrani19/M1_RestaurantBillingSystem_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=indrani19/M1_RestaurantBillingSystem_Utility&amp;utm_campaign=Badge_Grade)| ![Code Badge](https://api.codiga.io/project/31133/status/svg)|
 
 
 RESTAURANT BILLING SYSTEM
