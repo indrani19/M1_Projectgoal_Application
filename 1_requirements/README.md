@@ -1,4 +1,4 @@
-## INRODUCION:
+## INTRODUCTION:
 
 The project Restaurant Billing System gives us the facility to manage the Restaurants billing system.
 This application is helpful for staff or admin for billing of food order and managing customers details. 
@@ -9,31 +9,62 @@ In this project we can maintain the GST calculation of every food item.
 
 ## FEATURES:
 
-1)The system is fast, user friendly and interactive.
+- The system is fast, user friendly and interactive.
 
-2)Easy way to enter new costumers.
+- Easy way to enter new costumers.
 
-3)Automatic GST calculation
+- Automatic GST calculation
 
-4)All necessary requirements for the Restaurants Billing System has presented in this project.
+- All necessary requirements for the Restaurants Billing System has presented in this project.
 
 ## SWOT Analysis:
+![swot](https://user-images.githubusercontent.com/98951784/153701177-04fae38f-80c9-4b5b-9c64-283a7b67eda5.png)
 
 
 
 ## 4W's and 1H
 
-WHO:
-Any one who runs restaurants can use this application.
 
 
-WHAT:
-This application manages Food items and customer data.
+### WHO
+
+- Any one who runs restaurants can use this application.
 
 
-WHY:
-For easy and accurate billing.
+
+### WHAT
+
+- This application manages Food items and customer data.
 
 
-HOW:
-Implemented using structures, files, pointers and other functionalities of C.
+
+### WHY
+
+- For easy and accurate billing.
+
+
+
+### HOW
+
+- Implemented using structures, files, pointers and other functionalities of C.
+
+
+
+## Detail requirements
+
+
+### High Level Requirements:
+
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|HLR-1| system shall be able to generate the invoice |Implemented|
+|HLR-2| System shall calculate the total bill including GST according to the orders  |Implemented|
+|HLR-3| system shall save the invoices |Implemented|
+|HLR-4| system shall show the saved previous invoices|Implemented|
+
+
+### Low level Requirements:
+
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|LLR-1|User shall be able to read the output data|Implemented| 
