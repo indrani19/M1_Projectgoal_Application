@@ -36,7 +36,6 @@ int main()
     {
     case 1:
         printf("\n please enter the name of the customer\t");
-        //scanf("%s",&ord.customer);
         fgets(ord.customer,50,stdin);
         strcpy(ord.date,__DATE__);
         printf("\n Please enter the number of items:\t");
@@ -48,7 +47,6 @@ int main()
             fgetc(stdin);
             printf("\n\n");
             printf("please enter the item %d:\t",i+1);
-            //scanf("%s",&ord.itm[i].item[20]);
             fgets(ord.itm[i].item,20,stdin);
             printf("please enter the quantity:\t");
             scanf("%d",&ord.itm[i].quantity);
