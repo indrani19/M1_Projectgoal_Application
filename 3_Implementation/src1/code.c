@@ -4,7 +4,7 @@
 
 void Billheader(char name[50], char date[30])
 {
-    printf("\t            RESTAURANT");
+    printf("\t              RESTAURANT");
     printf("\n*******************************************");
     printf("\n DATE:%s",date);
     printf("\n INVOICE TO: %s",name);
@@ -28,12 +28,12 @@ void Billbody(char item[30],int quantity,float price)
 void Billfooter(float total)
 {
     printf("\n");
-    float dis=0.1*total;
-    float netTotal=total-dis;
+    float discount=0.1*total;
+    float netTotal=total-discount;
     float cgst=0.09*netTotal,grandTotal=netTotal+2*cgst; //netTotal+cgst+sgst
     printf("***************************************************\n");
     printf("SUB TOTAL\t\t\t%.2f",total);
-    printf("\nDISCOUNT @10%s\t\t\t%.2f","%",dis);
+    printf("\nDISCOUNT @10%s\t\t\t%.2f","%",discount);
     printf("\n\t\t\t\t***************");
     printf("\nNET TOTAL\t\t\t%.2f",netTotal);
     printf("\nCGST @9%s\t\t\t%.2f","%",cgst);

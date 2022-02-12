@@ -16,7 +16,7 @@ int main()
 {
     //dashboard
     float total;
-    int opt,n;
+    int option,n;
     struct orders ord;
     struct orders order;
     char savebill = 'y';
@@ -29,13 +29,15 @@ int main()
     printf("\n3.EXIT");
 
     printf("\n\nYour choice:\t");
-    scanf("%d",&opt);
+    scanf("%d",&option);
+    fgetc(stdin);
 
-    switch(opt)
+    switch(option)
     {
     case 1:
         printf("\n please enter the name of the customer\t");
-        scanf("%s",&ord.customer[50]);
+        //scanf("%s",&ord.customer);
+        fgets(ord.customer,50,stdin);
         strcpy(ord.date,__DATE__);
         printf("\n Please enter the number of items:\t");
         scanf("%d",&n);
@@ -43,10 +45,11 @@ int main()
 
         for(int i=0;i<n;i++)
         {
-
+            fgetc(stdin);
             printf("\n\n");
             printf("please enter the item %d:\t",i+1);
-            scanf("%s",&ord.itm[i].item[20]);
+            //scanf("%s",&ord.itm[i].item[20]);
+            fgets(ord.itm[i].item,20,stdin);
             printf("please enter the quantity:\t");
             scanf("%d",&ord.itm[i].quantity);
             printf(" please enter the unit price:\t");
