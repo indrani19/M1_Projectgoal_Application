@@ -1,3 +1,3 @@
 ## Structural diagram
 
-![Untitled Workspace (1)](https://user-images.githubusercontent.com/98951784/153712794-60160401-212f-42fa-8951-26f7eabd2452.jpg)
+![Untitled Workspace (2)](https://user-images.githubusercontent.com/98951784/153712835-2499e2e0-9d2f-4aac-9e9d-4ab76adb0901.jpg)
