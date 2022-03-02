@@ -13,7 +13,7 @@
 ![hacker](https://user-images.githubusercontent.com/98951784/156422039-b6a2210e-d271-4720-b85a-921ca5403355.png)
 
 - ## GitHub Learning
-- ![git](https://user-images.githubusercontent.com/98951784/156422404-98a77270-a989-40cc-ba98-f8aae3dda121.png)
+![git](https://user-images.githubusercontent.com/98951784/156422404-98a77270-a989-40cc-ba98-f8aae3dda121.png)
 
 
 
