@@ -53,7 +53,7 @@ In this project we can maintain the GST calculation of every food item.
 ## Detail requirements
 
 
-### High Level Requirements:
+## High Level Requirements:
 
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
@@ -63,7 +63,7 @@ In this project we can maintain the GST calculation of every food item.
 |HLR-4| system shall show the saved previous invoices|Implemented|
 
 
-### Low level Requirements:
+## Low level Requirements:
 
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
