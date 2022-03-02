@@ -5,6 +5,10 @@
  
  
  - ## Linux Certificate
+![linux](https://user-images.githubusercontent.com/98951784/156406001-120698b8-4169-48a8-97cf-11b969d68b1c.png)
+
+
+- ## HackerEarth Points
 
 
 
