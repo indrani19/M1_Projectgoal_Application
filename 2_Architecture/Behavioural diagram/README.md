@@ -1,6 +1,6 @@
-# Behavioural Diagram
+# 1 Behavioural Diagram
 
-## High level design
+## 1.1 High level design
 
 ### Use Case Diagram
 
