@@ -4,8 +4,9 @@
 
 void Billheader(char name[50], char date[30])
 {
+    printf("\n\n");
     printf("\t              RESTAURANT");
-    printf("\n*******************************************");
+    printf("\n\t*******************************************");
     printf("\n DATE:%s",date);
     printf("\n INVOICE TO: %s",name);
     printf("\n");
