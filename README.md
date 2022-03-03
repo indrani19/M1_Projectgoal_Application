@@ -10,8 +10,8 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 |3_Implemenatation|	All code and documentation|
 |4_Test plan and output|	Documents with test plans, procedures and Output|
 |5_Report|	Documentation of whole project|
-|6_ImagesAndVideos|	Code Execution Images and Videos|
-|7_Others|	Other files|
+|6_Others|	 Other files|
+|7_ImagesAndVideos|	Code Execution Images and Videos|
 
 
 
