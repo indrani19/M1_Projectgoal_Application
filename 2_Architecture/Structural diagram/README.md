@@ -6,4 +6,4 @@
 
 ### 2.2 System flow chart
 
-![Untitled Workspace (2)](https://user-images.githubusercontent.com/98951784/153712835-2499e2e0-9d2f-4aac-9e9d-4ab76adb0901.jpg)
+![fd](https://user-images.githubusercontent.com/98951784/156644449-7c48fa17-a2a9-4836-9a2a-f6a072d0dcb1.png)
