@@ -10,7 +10,6 @@ void teardown()
 }
 void test_Billheader(void)
 {
-    Billheader(ord.customer,ord.date);
 }
 
 void test_Billbody()
@@ -19,6 +18,7 @@ void test_Billbody()
 
 void test_Billfooter()
 {
+    TEST_ASSERT_EQUAL_VOID(2022,Billfooter(2022));
 }
 int test_main()
 {

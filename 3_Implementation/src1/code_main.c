@@ -20,7 +20,7 @@ int main()
     struct orders ord;
     struct orders order;
     char savebill = 'y';
-    char name[50];
+   
     FILE *fp;
     printf("\t---------------RESTAURANT---------------");
     printf("\n\nPLEASE SELECT YOUR PREFERED OPTION");

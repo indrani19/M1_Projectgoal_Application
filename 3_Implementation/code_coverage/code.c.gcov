@@ -1,0 +1,52 @@
+        -:    0:Source:src1/code.c
+        -:    0:Graph:./code.gcno
+        -:    0:Data:-
+        -:    0:Runs:0
+        -:    1:#include"code.h"
+        -:    2://functions to generate bills
+        -:    3:
+        -:    4:
+    #####:    5:void Billheader(char name[50], char date[30])
+        -:    6:{
+    #####:    7:    printf("\n\n");
+    %%%%%:    7-block  0
+    #####:    8:    printf("\t              RESTAURANT");
+    #####:    9:    printf("\n\t*******************************************");
+    #####:   10:    printf("\n DATE:%s",date);
+    #####:   11:    printf("\n INVOICE TO: %s",name);
+    #####:   12:    printf("\n");
+    #####:   13:    printf("*********************************************\n");
+    #####:   14:    printf("ITEMS\t\t");
+    #####:   15:    printf("QUANTITY\t\t");
+    #####:   16:    printf("TOTAL\t\t");
+    #####:   17:    printf("\n*******************************************");
+    #####:   18:    printf("\n\n");
+        -:   19:
+    #####:   20:}
+    #####:   21:void Billbody(char item[30],int quantity,float price)
+        -:   22:{
+    #####:   23:    printf("%s\t\t",item);
+    %%%%%:   23-block  0
+    #####:   24:    printf("%d\t\t",quantity);
+    #####:   25:    printf("%.2f\t\t",quantity*price);
+    #####:   26:    printf("\n");
+    #####:   27:}
+        -:   28:
+    #####:   29:void Billfooter(float total)
+        -:   30:{
+    #####:   31:    printf("\n");
+    %%%%%:   31-block  0
+    #####:   32:    float discount=0.1*total;
+    #####:   33:    float netTotal=total-discount;
+    #####:   34:    float cgst=0.09*netTotal,grandTotal=netTotal+2*cgst; //netTotal+cgst+sgst
+    #####:   35:    printf("***************************************************\n");
+    #####:   36:    printf("SUB TOTAL\t\t\t%.2f",total);
+    #####:   37:    printf("\nDISCOUNT @10%s\t\t\t%.2f","%",discount);
+    #####:   38:    printf("\n\t\t\t\t***************");
+    #####:   39:    printf("\nNET TOTAL\t\t\t%.2f",netTotal);
+    #####:   40:    printf("\nCGST @9%s\t\t\t%.2f","%",cgst);
+    #####:   41:    printf("\nSGST @9%s\t\t\t%.2f","%",cgst);
+    #####:   42:    printf("\n**************************************************");
+    #####:   43:    printf("\nGRAND TOTAL\t\t\t%.2f",grandTotal);
+    #####:   44:    printf("\n***************************************************\n");
+    #####:   45:}
