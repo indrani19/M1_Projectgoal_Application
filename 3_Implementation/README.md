@@ -1,5 +1,6 @@
 ## Folder Structure
 |Folder|	Description|
+|------|-------------|
 |documentation|	Files related to Doxygen documentation|
 |inc|	Includes header files|
 |src|	Source code file for calendar application|
