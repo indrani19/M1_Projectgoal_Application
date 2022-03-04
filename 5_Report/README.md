@@ -115,9 +115,9 @@ In this project we can maintain the GST calculation of every food item.
 |  H_03      |Save Invoice | [y/n]|saved the Invoice | saved the Invoice  |Requirement based |
 |  H_04      |show Invoice | Option 3|Your previous Invoices |Your previous Invoices |Requirement based |
 
-## 7 IMAGES 
+## 5 IMAGES 
 
-### 7.1 Execution Images from Visual studio code
+### 5.1 Execution Images from Visual studio code
 
 ### - From the options the user has selected to Generate the Invoice and the user enters the inputs
 ![im1](https://user-images.githubusercontent.com/98951784/156648226-42f17c0e-ba76-424b-a324-b6da718b9ca6.png)
