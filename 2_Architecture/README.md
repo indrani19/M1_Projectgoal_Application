@@ -1,4 +1,7 @@
 # 1 Behavioural Diagram
 
 ## 1.1  High Level Flow chart Behavioural Diagram:
-![fd](https://user-images.githubusercontent.com/98951784/156644449-7c48fa17-a2a9-4836-9a2a-f6a072d0dcb1.png)
+![fl1](https://user-images.githubusercontent.com/98951784/156756143-b2641f92-d395-466e-a3af-593dd303f24e.png)
+
+## 1.2 Low Level Flow chart Behavioural Diagram:
+
