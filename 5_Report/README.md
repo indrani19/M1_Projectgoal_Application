@@ -1,7 +1,7 @@
 
-# 1 REQUIREMENTS
+## 1 REQUIREMENTS
 
-## 1.1 INTRODUCTION:
+### 1.1 INTRODUCTION:
 
 The project Restaurant Billing System gives us the facility to manage the Restaurants billing system.
 This application is helpful for staff or admin for billing of food order and managing customers details. 
@@ -10,7 +10,7 @@ The project is very useful for those who want to know about Restaurants Billing 
 We can enter the details of new food items and retrieve the details of food items. We can generate the bills for the customers.
 In this project we can maintain the GST calculation of every food item.
 
-## 1.2 FEATURES:
+### 1.2 FEATURES:
 
 - The system is fast, user friendly and interactive.
 
@@ -20,12 +20,12 @@ In this project we can maintain the GST calculation of every food item.
 
 - All necessary requirements for the Restaurants Billing System has presented in this project.
 
-##  1.3 SWOT Analysis:
+###  1.3 SWOT Analysis:
 ![swot](https://user-images.githubusercontent.com/98951784/153701177-04fae38f-80c9-4b5b-9c64-283a7b67eda5.png)
 
 
 
-## 1.4 4W's and 1H
+### 1.4 4W's and 1H
 
 
 
@@ -53,10 +53,10 @@ In this project we can maintain the GST calculation of every food item.
 
 
 
-## 1.5 Detail requirements
+### 1.5 Detail requirements
 
 
-##  1.5.1 High Level Requirements:
+###  1.5.1 High Level Requirements:
 
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
@@ -66,35 +66,35 @@ In this project we can maintain the GST calculation of every food item.
 |HLR-4| system shall show the saved previous invoices|Implemented|
 
 
-## 1.5.2 Low level Requirements:
+### 1.5.2 Low level Requirements:
 
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
 |LLR-1|User shall be able to read the output data|Implemented| 
 
-# 2 ARCHITECTURE
+## 2 ARCHITECTURE
 
-# 2.1 Behavioural Diagram
+### 2.1 Behavioural Diagram
 
-## 2.1.1  High Level Flow chart Behavioural Diagram:
+### 2.1.1  High Level Flow chart Behavioural Diagram:
 ![fl1](https://user-images.githubusercontent.com/98951784/156756143-b2641f92-d395-466e-a3af-593dd303f24e.png)
 
-## 2.1.2 Low Level Flow chart Behavioural Diagram:
+### 2.1.2 Low Level Flow chart Behavioural Diagram:
 ![flo2](https://user-images.githubusercontent.com/98951784/156760867-843a680b-5820-48c4-a974-0c4d7981475e.png)
 
-# 2.2 Structural Diagram
+### 2.2 Structural Diagram
 
-## 2.2.1 UML Use Case Structural Diagram:
+### 2.2.1 UML Use Case Structural Diagram:
 ![Untitled Workspace](https://user-images.githubusercontent.com/98951784/153711857-e3559073-6d9f-4f55-b79b-e9cc662e31cc.jpg)
 
-## 2.2.2 System Functional Diagram
+### 2.2.2 System Functional Diagram
 ![bd2](https://user-images.githubusercontent.com/98951784/156641767-230f5edc-0dc9-4bcd-b5d3-813d198df411.png)
 
 
 
 
-# 3 IMPLEMENTATION
-## 3.1 Folder Structure
+## 3 IMPLEMENTATION
+### 3.1 Folder Structure
 |Folder|	Description|
 |------|-------------|
 |documentation|	Files related to Doxygen documentation|
@@ -104,9 +104,9 @@ In this project we can maintain the GST calculation of every food item.
 |unity|	Files for unit testing|
 
 
-# 4 TEST PLAN AND OUTPUT:
+## 4 TEST PLAN AND OUTPUT:
 
-## 4.1 Table no 1: High level test plan
+### 4.1 Table no 1: High level test plan
 
 | **Test ID** | **Description** | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -115,9 +115,9 @@ In this project we can maintain the GST calculation of every food item.
 |  H_03      |Save Invoice | [y/n]|saved the Invoice | saved the Invoice  |Requirement based |
 |  H_04      |show Invoice | Option 3|Your previous Invoices |Your previous Invoices |Requirement based |
 
-# 7 IMAGES 
+## 7 IMAGES 
 
-## 7.1 Execution Images from Visual studio code
+### 7.1 Execution Images from Visual studio code
 
 ### - From the options the user has selected to Generate the Invoice and the user enters the inputs
 ![im1](https://user-images.githubusercontent.com/98951784/156648226-42f17c0e-ba76-424b-a324-b6da718b9ca6.png)
